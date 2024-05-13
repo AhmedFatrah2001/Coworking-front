@@ -1,0 +1,44 @@
+{
+  "lanes": [
+    {
+      "id": "1",
+      "cards": [
+        {
+          "id": "1",
+          "title": "Login form",
+          "description": "using react to create a responsive login form",
+          "laneId": "1"
+        },
+        {
+          "id": "2",
+          "title": "Register form",
+          "description": "using react to create a responisve register form",
+          "laneId": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "cards": [
+        {
+          "id": "3",
+          "title": "Database Creation",
+          "description": "using mysql to create the database, according to models",
+          "laneId": "2"
+        },
+        {
+          "id": "4",
+          "title": "Secure db",
+          "description": "Securing the database",
+          "laneId": "2"
+        },
+        {
+          "id": "5",
+          "title": "Database Updade",
+          "description": "using mysql to update the database, according to models",
+          "laneId": "2"
+        }
+      ]
+    }
+  ]
+}
