@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/coworking-frontend.git
+    git clone https://github.com/AhmedFatrah2001/coworking-frontend.git
     cd coworking-frontend
     ```
 
